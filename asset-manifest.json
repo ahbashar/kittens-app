@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kittens-app/static/css/main.1513b112.chunk.css",
+    "main.js": "/kittens-app/static/js/main.d48fb33e.chunk.js",
+    "main.js.map": "/kittens-app/static/js/main.d48fb33e.chunk.js.map",
+    "runtime-main.js": "/kittens-app/static/js/runtime-main.3fcd8d7f.js",
+    "runtime-main.js.map": "/kittens-app/static/js/runtime-main.3fcd8d7f.js.map",
+    "static/js/2.05463ef1.chunk.js": "/kittens-app/static/js/2.05463ef1.chunk.js",
+    "static/js/2.05463ef1.chunk.js.map": "/kittens-app/static/js/2.05463ef1.chunk.js.map",
+    "index.html": "/kittens-app/index.html",
+    "precache-manifest.042fd9e22627d86c380aba106195988a.js": "/kittens-app/precache-manifest.042fd9e22627d86c380aba106195988a.js",
+    "service-worker.js": "/kittens-app/service-worker.js",
+    "static/css/main.1513b112.chunk.css.map": "/kittens-app/static/css/main.1513b112.chunk.css.map",
+    "static/js/2.05463ef1.chunk.js.LICENSE.txt": "/kittens-app/static/js/2.05463ef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fcd8d7f.js",
+    "static/js/2.05463ef1.chunk.js",
+    "static/css/main.1513b112.chunk.css",
+    "static/js/main.d48fb33e.chunk.js"
+  ]
+}
